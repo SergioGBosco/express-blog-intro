@@ -16,31 +16,31 @@ app.get("/bacheca", (req, res) => {
     {
       title: `estate`,
       content: `spiaggia`,
-      img: `http......`,
+      img: "img/spiaggia.jpg",
       tags: ["sole", "divertimento", "mare"]
     },
     {
       title: "primavera",
       content: `al fiume`,
-      img: `http:.....`,
+      img: "img/fiume.jpg",
       tags: ["felicita", "divertimento", "amore"]
     },
     {
       title: "autunno",
-      content: `in montagna`,
-      img: `http:.....`,
+      content: `foglie per tera`,
+      img: "img/Autunno.jpg",
       tags: ["serenita", "divertimento", "amore"]
     },
     {
       title: "Inverno",
       content: `vicino al camino`,
-      img: `http:.....`,
+      img: "img/Montagna.jpg",
       tags: ["noia", "freddo", "amore"]
     },
     {
       title: "natale",
       content: `foto con l'albero`,
-      img: `http:.....`,
+      img: "img/natale.jpg",
       tags: ["felicita", "divertimento", "amore"]
     }
   ];
