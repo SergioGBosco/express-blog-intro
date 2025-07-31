@@ -11,3 +11,6 @@ Configuriamo gli asset statici sull’applicazione in modo che si possano visual
 Testare su postman
 
 Buon lavoro!
+
+1- Creazione del progetto base
+2- creo la rotta base e verifico che funzioni
