@@ -14,3 +14,5 @@ Buon lavoro!
 
 1- Creazione del progetto base
 2- creo la rotta base e verifico che funzioni
+3- creato l'array di oggetti dove andranno ad essere inserite le foto
+4-creare la rotta bacheca che restituisce l'oggetto
